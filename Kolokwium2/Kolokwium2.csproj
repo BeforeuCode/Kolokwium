@@ -16,7 +16,6 @@
   <ItemGroup>
     <Folder Include="DAL\DTOs\Responses\" />
     <Folder Include="DAL\DTOs\Requests\" />
-    <Folder Include="Models\" />
     <Folder Include="Controllers\" />
     <Folder Include="NewFolder\" />
     <Folder Include="Services\" />
